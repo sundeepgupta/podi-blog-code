@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Traditional DI'/>
+        <page name='PODI'/>
+        <page name='PODI Broken'/>
+        <page name='PODI Fix'/>
+        <page name='PODI Thread-safe'/>
+    </pages>
+</playground>
